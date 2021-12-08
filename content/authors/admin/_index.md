@@ -6,7 +6,7 @@ title: Alice Big
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: student
 
 # Organizations/Affiliations to show in About widget
 organizations:
