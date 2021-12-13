@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Danni WU
+title: Danni Wu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Senior
+role: Marketing Analyst Intern
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,12 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Reporting in the Digital Age
+  - course: Bachelor of Science in Marketing
     institution: The George Washington University
-    year: 2021
-  - course: CRM and Relational Database 
-    institution: The George Washington University
-    year: 2021
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
