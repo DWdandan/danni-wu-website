@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
+- certificate_url: https://www.linkedin.com/learning/certificates/c9d0baaefb9ac117381ec8c21cd44110df53c67628c9211034688595c6f2c56c?trk=share_certificate
+  date_end: 
+  date_start: "2021-10-09"
+  description: "Learning R"
+  organization: LinkedIn Learning
+  organization_url: "https://www.linkedin.com/learning/certificates/c9d0baaefb9ac117381ec8c21cd44110df53c67628c9211034688595c6f2c56c?trk=share_certificate"
+  title: Learning R
+  url:
 - certificate_url: 
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  date_start: "2020-03-10"
+  description: Facebook for Journalists 
+  organization: Poynter
+  organization_url: https://www.poynter.org
+  title: Facebook for Journalists 
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.dataquest.io/
-  date_end: "2020-12-21"
+- certificate_url: 
+  date_end: 
   date_start: "2020-07-01"
   description: ""
-  organization: DataQuest
-  organization_url: https://www.dataquest.io/
-  title: 'Intro to Programming in R'
+  organization: Hootsuite
+  organization_url: https://www.hootsuite.com/
+  title: 'Hootsuite Platform Training'
   url: ""
 
 design:
